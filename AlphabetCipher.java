@@ -1,7 +1,8 @@
 // Alphabet Cipher
 // Mehrad Hajati
 // 2021/05/18 
-
+// This program turns letters of the alphabet into their correposing position in the alphabet and space is in position zero. 
+// At the end of the encryption a "-1" is added to the end to show the end of the message. 
 
 import java.util.*;
 
